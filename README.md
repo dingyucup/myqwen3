@@ -104,7 +104,7 @@ pip install jieba transformers datasets tensorboard tqdm jupyter pandas scikit-l
 
 
 
-## 模型权重
+## 模型权重与训练集
 
 通过网盘分享的文件：myqwen3
 链接: https://pan.baidu.com/s/1TcOfNJ2j3dHi7kWrRl3pUw?pwd=kmi8 提取码: kmi8 
