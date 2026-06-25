@@ -130,7 +130,11 @@ pip install jieba transformers datasets tensorboard tqdm jupyter pandas scikit-l
 ## 模型权重与训练集
 
 通过网盘分享的文件：myqwen3
-链接: https://pan.baidu.com/s/1TcOfNJ2j3dHi7kWrRl3pUw?pwd=kmi8 提取码: kmi8 
+链接: https://pan.baidu.com/s/1TcOfNJ2j3dHi7kWrRl3pUw?pwd=kmi8 提取码: kmi8
+
+## 训练过程
+在Colab上采用A100进行训练，训练过程的ipynb文件保存在training_process_ipynb目录中。
+包含：预训练（pre_train）、微调（lora_sft）、对齐（dpo）
 
 ## 测试效果
 ```txt
